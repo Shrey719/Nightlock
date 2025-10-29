@@ -1,0 +1,23 @@
+{
+  "name": "nightlock",
+  "version": "1.0.0",
+  "description": "A javascript library to protect your writing from agressive AI scrapers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrey719/nightlock.git"
+  },
+  "author": "Shrey Yadav",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/shrey719/nightlock/issues"
+  },
+  "homepage": "https://github.com/shrey719/nightlock#readme",
+  "dependencies": {
+    "@rspack/cli": "^1.5.8",
+    "express": "^5.1.0"
+  }
+}
